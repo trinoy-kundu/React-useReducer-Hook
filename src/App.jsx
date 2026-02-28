@@ -1,9 +1,10 @@
-import Counter from "./Components/Counter"
+// import Counter from "./Components/Counter"
+import ComplexCounter from "./Components/ComplexCounter"
 function App() {
 
   return (
     <div>
-      <Counter />
+      <ComplexCounter />
     </div>
   )
 }
